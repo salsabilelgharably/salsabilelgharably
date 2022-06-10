@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salsabil El Gharably</h1>
-<h3 align="center">A passionate Back-end developer from Egypt</h3>
+<h3 align="center">A Computer Science Student from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salsabilelgharably&label=Profile%20views&color=0e75b6&style=flat" alt="salsabilelgharably" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salsabilelgharably" alt="salsabilelgharably" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science and Back-end development**
 
