@@ -1,8 +1,6 @@
 <h1 align="center">Hi 🐥, I'm Salsabil El Gharably</h1>
 <h3 align="center">A Computer Science Student from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salsabilelgharably&label=Profile%20views&color=0e75b6&style=flat" alt="salsabilelgharably" /> </p>
-
 - 🌱 I’m currently learning **Data Science and Back-end development**
 
 - 💬 Ask me about **PHP, Python and python libraries**
