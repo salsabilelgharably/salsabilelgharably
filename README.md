@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🐥, I'm Salsabil El Gharably</h1>
 <h3 align="center">A Computer Science Student from Egypt</h3>
 
-- 🌱 I’m currently learning **Data Science and Back-end development**
+- 🌱 I’m currently learning **Machine Learning and Back-end development**
 
 - 💬 Ask me about **PHP, Python and python libraries**
 
