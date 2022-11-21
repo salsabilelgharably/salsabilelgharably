@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Salsabil El Gharably</h1>
+<h1 align="center">Hi , I am Salsabil El Gharably</h1>
 <h3 align="center">A Computer Science Student from Egypt</h3>
 
 - 🌱 I am currently learning **Machine Learning and Back-end development**
