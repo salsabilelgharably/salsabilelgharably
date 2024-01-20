@@ -9,10 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/salsabiltaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salsabiltaha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/salsabilelgharably" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salsabilelgharably" height="30" width="40" /></a>
 <a href="https://kaggle.com/salsabilelgharably" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="salsabilelgharably" height="30" width="40" /></a>
-<a href="https://fb.com/salsabilelgharably" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salsabilelgharably" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/salsabilelgharably" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="salsabilelgharably" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/salsabilelgharably" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salsabilelgharably" height="30" width="40" /></a>
 </p>
